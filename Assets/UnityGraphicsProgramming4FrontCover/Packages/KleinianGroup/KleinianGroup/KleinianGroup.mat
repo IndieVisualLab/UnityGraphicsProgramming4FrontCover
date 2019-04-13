@@ -63,12 +63,12 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Iteration: 80
+    - _Iteration: 50
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _Scale: 2.53
+    - _Scale: 1.9
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -76,9 +76,9 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BackColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Circle: {r: 0.25, g: 0.5, b: 0, a: 1}
+    - _Circle: {r: -0.89, g: 0, b: 0, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _HitColor: {r: 1, g: 1, b: 1, a: 1}
-    - _KleinUV: {r: 1.89, g: 1.94, b: 0, a: 0}
-    - _Offset: {r: -11.87, g: 0.87, b: 0, a: 0}
+    - _KleinUV: {r: 1.9458666, g: 0.018314734, b: 0, a: 0}
+    - _Offset: {r: 1, g: 0, b: 0, a: 0}

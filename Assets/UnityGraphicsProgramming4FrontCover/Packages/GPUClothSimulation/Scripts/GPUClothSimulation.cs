@@ -10,7 +10,7 @@ namespace GPUClothSimulation
         // タイムステップ
         public float   TimeStep = 0.01f;
         // シミュレーションの反復回数
-        [Range(1, 16)]
+        [Range(1, 32)]
         public int     VerletIterationNum = 4;
         // 布の解像度（横, 縦)
         public Vector2Int ClothResolution = new Vector2Int(128, 128);

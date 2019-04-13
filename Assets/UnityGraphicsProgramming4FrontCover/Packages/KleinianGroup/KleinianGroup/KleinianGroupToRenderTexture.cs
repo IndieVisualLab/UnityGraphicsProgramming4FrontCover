@@ -21,8 +21,8 @@ namespace KleinianGroup
 
         public float timeScale = 1f;
 
-        //float time => Time.time * timeScale;
-        public float time = 0.0f;
+        float time => Time.time * timeScale;
+        //public float time = 0.0f;
 
         [Header("Texture Parameters")]
         public Vector2Int size;
